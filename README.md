@@ -29,7 +29,7 @@ Execute the migration files and update the database schema to match your Django 
 Create a superuser with full access rights to all models and data through the admin interface.
 
 ### STEP 7:
-Apply the migration files of the created app to the database
+Apply the migration files of tcreated app to the database
 
 ### STEP 8:
 Execute Django admin using localhost and create details for 10 entries
